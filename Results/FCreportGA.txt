@@ -1,0 +1,5 @@
+Georgia|Aug|08/01/2017
+Foreclosurebidslist|2175|https://www.foreclosurebidslist.com|./2-Foreclosurebidslist/build/Aug/fc-final-Aug-.csv
+RealtyBid|147|http://www.foreclosurehotline.net|./4-RealtyBid/build/Aug/fc-final-Aug.csv
+Adridgepite|417|http://saleday.aldridgepite.com/Listings|./6-Adridgepite/build/Aug/fc-final-Aug-06.csv
+Rubin & Lublin|278|http://rubinlublin.com|./7-RubinLublin/build/Aug/fc-final-Aug.csv

@@ -1,0 +1,6 @@
+Texas|Aug|08/01/2017
+RealtyBid|148|http://www.foreclosurehotline.net|./4-RealtyBid/build/Aug/fc-final-Aug.csv
+Brack & Scott|124|https://www.brockandscott.com/BrockSearch.aspx|./5-BrockScott/build/Aug/fc-final-Aug.csv
+Addridge Pike|417|http://saleday.aldridgepite.com/Listings|./6-Adridgepite/build/Aug/fc-final-Aug-06.csv
+Rubin & Lublin|263|http://rubinlublin.com|./7-RubinLublin/build/Aug/fc-final-Aug.csv
+1278|128|226
